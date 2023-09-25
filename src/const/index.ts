@@ -1,0 +1,1 @@
+export const verCodePush  = "1.0.0";
